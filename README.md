@@ -32,3 +32,5 @@ DF_train.info()
 DF_train.hist(bins=90,figsize=(30,30))
 plt.show()
 
+
+
